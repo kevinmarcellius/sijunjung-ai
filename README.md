@@ -4,7 +4,7 @@
 > **Empowering Indonesian Village Cooperatives with AI-Driven Market Matching.**
 > *Built for the Hackathon Digital Cooperatives Expo 2026.*
 
-KUD-Intelligent Supply Hub is a "Zero-UI" platform designed to transform traditional Koperasi Unit Desa (KUD) into highly efficient supply chain hubs. By leveraging a simple WhatsApp interface powered by Multi-Agent AI, we eliminate the need for complex ERP systems, allowing cooperatives to seamlessly match their agricultural commodities with national offtakers at the best prices.
+sijunjung-ai is a "Zero-UI" platform designed to transform traditional Koperasi Unit Desa (KUD) into highly efficient supply chain hubs. By leveraging a simple WhatsApp interface powered by Multi-Agent AI, we eliminate the need for complex ERP systems, allowing cooperatives to seamlessly match their agricultural commodities with national offtakers at the best prices.
 
 ---
 
